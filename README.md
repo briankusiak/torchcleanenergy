@@ -13,9 +13,9 @@ The latest analysis is [Tracker #08: 08/10/2021 –> 11/04/2021](https://brianku
 - [PJM Queue Changes Tracker #02: 06/08/2021 –> 06/30/2021](https://rpubs.com/briankusiak/787009)
 - [PJM Queue Changes Tracker #01: 05/27/2021 -> 06/08/2021](https://rpubs.com/briankusiak/785398)
 
-
-Let me know if you have any questions. 
+Email me bkusiak@torchcleanenergy.com with any questions.
 
 Thanks,
+
 Brian
 
