@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## PJM Queue Changes Tracker
 
-You can use the [editor on GitHub](https://github.com/briankusiak/torchcleanenergy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the *PJM Queue Changes Tracker*. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The latest analysis is [Tracker #08: 08/10/2021 –> 11/04/2021](
 
-### Markdown
+### Tracker Archive:
+- [PJM Queue Changes Tracker #07: 08/02/2021 -> 08/10/2021](https://rpubs.com/briankusiak/pjmqueuetracker_07)
+- [PJM Queue Changes Tracker #06: 07/26/2021 –> 08/02/2021](https://rpubs.com/briankusiak/pjmqueuetracker_06)
+- [PJM Queue Changes Tracker #05: 07/12/2021 –> 07/26/2021](https://rpubs.com/briankusiak/pjmqueuetracker_05)
+- [PJM Queue Changes Tracker #04: 07/06/2021 –> 07/12/2021](https://rpubs.com/briankusiak/pjmqueuetracker_04)
+- [PJM Queue Changes Tracker #03: 06/30/2021 -> 07/06/2021](https://rpubs.com/briankusiak/pjmqueuetracker_03)
+- [PJM Queue Changes Tracker #02: 06/08/2021 –> 06/30/2021](https://rpubs.com/briankusiak/787009)
+- [PJM Queue Changes Tracker #01: 05/27/2021 -> 06/08/2021](https://rpubs.com/briankusiak/785398)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Let me know if you have any questions. 
 
-# Header 1
-## Header 2
-### Header 3
+Thanks,
+Brian
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briankusiak/torchcleanenergy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
