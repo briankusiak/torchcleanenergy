@@ -1,8 +1,8 @@
 ## PJM Queue Changes Tracker
 
-Welcome to the *PJM Queue Changes Tracker*. 
+Welcome to the **PJM Queue Changes Tracker**. 
 
-The latest analysis is [Tracker #08: 08/10/2021 –> 11/04/2021](
+The latest analysis is [Tracker #08: 08/10/2021 –> 11/04/2021](https://briankusiak.github.io/torchcleanenergy/PJMQueueTracker_08-2021-11-08). 
 
 ### Tracker Archive:
 - [PJM Queue Changes Tracker #07: 08/02/2021 -> 08/10/2021](https://rpubs.com/briankusiak/pjmqueuetracker_07)
