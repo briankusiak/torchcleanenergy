@@ -1,14 +1,14 @@
 # Setup
 title:        PJM Queue Changes Tracker
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      "/jekyll-cayman-theme/"
+baseurl:      "/jekyll-cayman-theme-master/"
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
   name:       Author name
-  url:        https://briankusiak.github.io/torchcleanenergy/jekyll-cayman-theme/
+  url:        https://briankusiak.github.io/torchcleanenergy/jekyll-cayman-theme-master/
 
 # Gems
 gems:
