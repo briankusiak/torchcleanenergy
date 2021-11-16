@@ -1,6 +1,6 @@
 # PJM Queue Changes Tracker
 
-Welcome to the **PJM Queue Changes Tracker** where we periodically publish updates to PJM's New Services Queue. 
+Welcome to the **PJM Queue Changes Tracker** where I periodically publish updates to PJM's New Services Queue. 
 
 Each tracker will contain the dates of the two queue files of comparison as well as a table containing all updates.
 
