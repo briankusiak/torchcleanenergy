@@ -1,8 +1,6 @@
 # PJM Queue Changes Tracker
 
-Welcome to the **PJM Queue Changes Tracker** where I periodically publish updates to PJM's New Services Queue. 
-
-Each tracker will contain the dates of the two queue files of comparison as well as a table containing all updates.
+Each tracker contains the dates of the two queue files of comparison and as a table containing all updates.
 
 The **latest analysis** is [Tracker #08: 08/10/2021 –> 11/04/2021](https://briankusiak.github.io/torchcleanenergy/PJMQueueTracker_08-2021-11-08). 
 
