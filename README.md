@@ -2,9 +2,10 @@
 
 Each tracker contains the dates of the two queue files of comparison and as a table containing all updates.
 
-The **latest analysis** is [Tracker #11: 11/22/2021 –> 11/29/2021](https://rpubs.com/briankusiak/pjmqueuetracker_11).
+The **latest analysis** is [Tracker #12: 11/29/2021 –> 12/07/2021](https://rpubs.com/briankusiak/pjmqueuetracker_12).
 
 ### Tracker Archive:
+- [PJM Queue Changes Tracker #11: 11/22/2021 –> 11/29/2021](https://rpubs.com/briankusiak/pjmqueuetracker_11)
 - [PJM Queue Changes Tracker #10: 11/15/2021 –> 11/22/2021](https://rpubs.com/briankusiak/pjmqueuetracker_10)
 - [PJM Queue Changes Tracker #09: 11/04/2021 –> 11/15/2021](https://rpubs.com/briankusiak/pjmqueuetracker_09)
 - [PJM Queue Changes Tracker #08: 08/10/2021 –> 11/04/2021](https://briankusiak.github.io/torchcleanenergy/PJMQueueTracker_08-2021-11-08)
