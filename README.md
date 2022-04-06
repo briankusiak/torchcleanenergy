@@ -2,9 +2,10 @@
 
 Each tracker contains the dates of the two queue files of comparison and as a table containing all updates.
 
-The **latest analysis** is [Tracker #17 (01/03/2022 –> 03/09/2022)](https://rpubs.com/briankusiak/pjmqueuetracker_17).
+The **latest analysis** is [Tracker #18 (03/09/2022 –> 04/06/2022)](https://rpubs.com/briankusiak/pjmqueuetracker_18).
 
 ### Tracker Archive:
+- [PJM Queue Changes Tracker #17: (01/03/2022 –> 03/09/2022)](https://rpubs.com/briankusiak/pjmqueuetracker_17) 
 - [PJM Queue Changes Tracker #16: 12/29/2021 –> 01/03/2022](https://rpubs.com/briankusiak/pjmqueuetracker_16) 
 - [PJM Queue Changes Tracker #15: 12/20/2021 –> 12/29/2021](https://rpubs.com/briankusiak/pjmqueuetracker_15)
 - [PJM Queue Changes Tracker #14: 12/13/2021 –> 12/20/2021](https://rpubs.com/briankusiak/pjmqueuetracker_14)
